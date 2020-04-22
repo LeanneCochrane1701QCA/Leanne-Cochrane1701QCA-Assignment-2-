@@ -74,7 +74,7 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*To create a toy or music box that makes music and displays a light when touched or by motion.*
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
@@ -82,7 +82,7 @@ This project is related to mine because *insert reasons here*.
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*Put details here.*
+*A box that you put a code in to open and once you get the code right and open it, it plays music and lights up, if you get the code wrong it sets an alarm off. *
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
