@@ -17,7 +17,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Lets%20Party.png)
 
-This project is related to mine because *because it has a mechanically element, it plays music and has lights plus it is definitely a surprise in a box.  I seriously thought of doing something similar and may yet do this at some stage*.
+This project is related to mine because it has a mechanically element, it plays music and has lights plus it is definitely a surprise in a box.  I seriously thought of doing something similar and may yet do this at some stage in the future.
 
 ### Related project 2 ###
 *Microbit: A Password to open a door*
@@ -26,7 +26,7 @@ This project is related to mine because *because it has a mechanically element, 
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/password%20box.jpg)
 
-This project is related to mine because *it uses the microbit as a keypad for the code to get into the box, I really wanted to include a code on my box and explored this quite a lot but just couldn't work out how to get the music, lights and code all to work together without purchasing multiple extra parts this was also the focus of my Design Concept 2. If I get time later in the production of the project and can work out how to incorporate this as well, I definitely will.*.
+This project is related to mine because it uses the microbit as a keypad for the code to get into the box, I really wanted to include a code on my box and explored this quite a lot but just couldn't work out how to get the music, lights and code all to work together without purchasing multiple extra parts this was also the focus of my Design Concept 2. If I get time later in the production of the project and can work out how to incorporate this as well, I definitely will.
 
 ### Related project 3 ###
 *Micro:bit Surprise box*
@@ -35,39 +35,42 @@ This project is related to mine because *it uses the microbit as a keypad for th
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/surprise%20box.png)
 
-This project is related to mine because *it is using the microbit to create an element of surprise in the project, which is what I am hoping to achieve with my project, I was tempted to do something like this which also is related to the first project above but the code etc.. and the different sensors that I would need, meant trying to find a cheaper way around the micro:bit accessories. This would mean perhaps learning a bit about Arduino which seems a little cheaper and more accessible locally for me. I am not sure I am ready to learn this side of things yet but definitely see the potential in this as time goes on.  I'm sure this could be made cheaper though and will keep it in mind for if my project is a complete failure, which I'm sure it won't.*. 
+This project is related to mine because it is using the microbit to create an element of surprise in the project, which is what I am hoping to achieve with my project. I was tempted to do something like this which also is related to the first project above but the code etc.. and the different sensors that I would need, meant trying to find a cheaper way around needing to purchase the micro:bit accessories. This would mean perhaps learning a bit about Arduino which seems a little cheaper and more accessible locally for me. I am not sure I am ready to learn this side of things yet but definitely see the potential in this as time goes on.  I'm sure this could be made cheaper though and without the extension parts and will keep it in mind for if my project is a complete failure, which I'm sure it won't.*. 
 
 ### Related project 4 ###
-*Insert name of project*
+*Micro:bit Music Box*
 
-*Insert URL to project*
+*https://www.youtube.com/watch?v=Yt3LzrSXE3c*
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Music%20box.jpg)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it is in a box and plays music, it is a much more simplified version of what I am trying to achieve but is where I will start with the code for the box.
 
 ### Related project 5 ###
-*Insert name of project*
+*Microbit: Chocolate vending machine*
 
-*Insert URL to project*
+*https://www.youtube.com/watch?v=qbyOZUM1hz8*
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Chocolate%20vending%20machine.jpg)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it is using some mechanical parts, the micro:bit and the servo motor. I will definitely be needing some mechanical parts and it is good to see how other people manage these.  The microbit will be a big part of my project and as I am toying with the idea of using a servo motor, it is helpful to see it in action.
 
 ### Related project 6 ###
-*Insert name of project*
+*Microbit: My robot asks me for money*
 
-*Insert URL to project*
+*https://www.youtube.com/watch?v=Jskg6gfSGd8*
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/My%20robot%20asks%20for%20money.jpg
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because again it is quite mechanical. I love the way he uses foil and wire to manage his project, makes use of the servo motor and microbit in a different way.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. The amount of research I have done thus far for this project is unbelievable, there is so much stuff out there, alot to learn and it is all so exciting.  I have definitely found a couple of really helpful sights and some of them don't even speak English. *
 
 ### *Brief resource name/description* ###
+
+Hay Kel – youtube videos
+*https://www.youtube.com/user/kayebti/videos*
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
