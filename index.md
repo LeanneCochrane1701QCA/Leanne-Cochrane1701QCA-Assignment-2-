@@ -74,14 +74,14 @@ The amount of research I have done this far for this project is unbelievable, th
 
 This website has been very helpful in showing the different terms and how the microbit works.
 
-### *Hay Kal – youtube videos* ###
+### *Hay Kal – YouTube videos* ###
 
 *https://www.youtube.com/user/kayebti/videos*
 
 I've really enjoyed this guys Youtube videos, he doesn't speak but takes you through step by step how to do things, I'm not even sure what language he speaks but most writing on his videos is in a different language.  This doesn't stop you understanding the main point of his tutorials. 
 
 
-### *Mark Ng - Youtube* ###
+### *Mark Ng - YouTube* ###
 
 *https://www.dfrobot.com/blog-801.html*
 
@@ -94,7 +94,7 @@ This blog is also really great, this is the blog for the 'Micro:bit Surprise Box
 
 This would have terrified me before, now I'm looking forward to having a go at doing this and hopefully utilising some in my project. I'm pretty sure it is not going to be this easy but he certainly makes it look so.
 
-### *This Youtube series of videos is also very helpful* ###
+### *OSOYOO - This YouTube series of videos is also very helpful* ###
 
 *https://www.youtube.com/channel/UCZsnf-n1TR1MGQT-ru-j4TA/videos*
 
@@ -120,19 +120,19 @@ Quite a few of the electronics companies that sell microbits, arduiono, Raspberr
 
 ### *Ideas for lifting my Diorama up and out of the box.* ###
 
-Hydralics maybe and a scissor lift?
+*Hydralics maybe and a scissor lift?*
 
 *https://www.youtube.com/watch?v=Q649L1_jMZc*
 
 This is definitely an option but not sure about the water, maybe that can be the interactive thing that is done. Or maybe make some cogs and stick with the windup version, this scissor structure could work for that.
 
-Scissor lift only?
+*Scissor lift only?*
 
 *https://www.youtube.com/watch?v=VEJzHizTYSU*
 
 I love this option, very sturdy and clean operation.  I would obviously have to do this on a much smaller version.
 
-Water only lift?
+*Water only lift?*
 
 *https://www.youtube.com/watch?v=zFhy21loeRw*
 
@@ -151,7 +151,7 @@ I like this idea too but it would need to be more sturdy then this and would aga
 ## Conceptual progress ##
 
 ### Design intent ###
-*To create a toy or music box that makes music and displays a light when touched or by motion.*
+I want to create a toy or music box that makes music and displays a light when touched or when senses motion.
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
