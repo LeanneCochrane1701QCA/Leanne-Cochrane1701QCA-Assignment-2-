@@ -158,7 +158,7 @@ I want to create a toy or music box that makes music and displays a light when t
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20DC12.jpgg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20DC12.jpg)
 
 ### Design concept 2 ###
 A box that you put a code in to open and once you get the code right and open it, it plays music and lights up, if you get the code wrong it sets an alarm off.
@@ -169,7 +169,7 @@ A box that you put a code in to open and once you get the code right and open it
 This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic. 
 A keepsake wooden box, that has a diorama of a little house in it, with maybe a Xmas scene happening outside, you wind up the house to the top of the box and once up the top, it plays xmas carols and the coloured lights flash.  You can either leave it up and play it again or you can wind it down ready for the next person to have a look. I am going to make it shoe box size or maybe a little bigger, at this stage I will be using a combination of balsa
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FDC2.jpg)
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -185,7 +185,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20Balsa%20wood.jpg)
 
 ![Image](missingimage.png)
 
