@@ -121,11 +121,13 @@ Quite a few of the electronics companies that sell microbits, arduiono, Raspberr
 ### *Ideas for lifting my Diorama up and out of the box.* ###
 
 Hydralics maybe and a scissor lift?
+
 *https://www.youtube.com/watch?v=Q649L1_jMZc*
 
 This is definitely an option but not sure about the water, maybe that can be the interactive thing that is done. Or maybe make some cogs and stick with the windup version, this scissor structure could work for that.
 
 Scissor lift only?
+
 *https://www.youtube.com/watch?v=VEJzHizTYSU*
 
 I love this option, very sturdy and clean operation.  I would obviously have to do this on a much smaller version.
