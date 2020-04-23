@@ -60,7 +60,7 @@ This project is related to mine because it is using some mechanical parts, the m
 
 *https://www.youtube.com/watch?v=Jskg6gfSGd8*
 
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/My%20robot%20asks%20for%20money.jpg
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/My%20robot%20asks%20for%20money.jpg)
 
 This project is related to mine because again it is quite mechanical. I love the way he uses foil and wire to manage his project, makes use of the servo motor and microbit in a different way.
 
@@ -70,7 +70,9 @@ This project is related to mine because again it is quite mechanical. I love the
 ### *Brief resource name/description* ###
 
 Hay Kel – youtube videos
+
 *https://www.youtube.com/user/kayebti/videos*
+
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
