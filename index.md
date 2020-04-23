@@ -158,12 +158,12 @@ I want to create a toy or music box that makes music and displays a light when t
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20DC12.jpgg)
 
 ### Design concept 2 ###
 A box that you put a code in to open and once you get the code right and open it, it plays music and lights up, if you get the code wrong it sets an alarm off.
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20DC22.jpg)
 
 ### Final design concept ###
 This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic. 
@@ -173,8 +173,6 @@ A keepsake wooden box, that has a diorama of a little house in it, with maybe a 
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
-
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FlowChart%20.jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FlowChart2.jpg)
 
