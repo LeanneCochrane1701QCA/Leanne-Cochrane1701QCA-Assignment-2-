@@ -65,16 +65,86 @@ This project is related to mine because it is using some mechanical parts, the m
 This project is related to mine because again it is quite mechanical. I love the way he uses foil and wire to manage his project, makes use of the servo motor and microbit in a different way.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. The amount of research I have done thus far for this project is unbelievable, there is so much stuff out there, alot to learn and it is all so exciting.  I have definitely found a couple of really helpful sights and some of them don't even speak English. *
+The amount of research I have done this far for this project is unbelievable, there is so much stuff out there, alot to learn and it is all so exciting.  I have definitely found a couple of really helpful sights and some of them don't even speak English. 
 
-### *Brief resource name/description* ###
 
-Hay Kel – youtube videos
+### *Microbit lessons* ###
+
+*https://microbit.org/lessons/*
+
+This website has been very helpful in showing the different terms and how the microbit works.
+
+### *Hay Kal – youtube videos* ###
 
 *https://www.youtube.com/user/kayebti/videos*
 
+I've really enjoyed this guys Youtube videos, he doesn't speak but takes you through step by step how to do things, I'm not even sure what language he speaks but most writing on his videos is in a different language.  This doesn't stop you understanding the main point of his tutorials. 
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+
+### *Mark Ng - Youtube* ###
+
+*https://www.dfrobot.com/blog-801.html*
+
+This blog is also really great, this is the blog for the 'Micro:bit Surprise Box' from the above projects and he has links to other projects as well.
+
+
+### *How to attach croc clip to LED lights* ###
+
+*https://www.youtube.com/watch?v=1PhghS_-NYc*
+
+This would have terrified me before, now I'm looking forward to having a go at doing this and hopefully utilising some in my project. I'm pretty sure it is not going to be this easy but he certainly makes it look so.
+
+### *This Youtube series of videos is also very helpful* ###
+
+*https://www.youtube.com/channel/UCZsnf-n1TR1MGQT-ru-j4TA/videos*
+
+I will definitely be jumping on here and spending alot more time over the next few weeks.  Really easy to follow instructions and despite the robotic voice it is great.
+
+### *Microsoft MakeCode* ###
+
+*https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q/videos*
+
+So many different videos on this Youtube site and I really wish I had found it earlier as they are so helpful and a load of different interesting ideas on different ways to use the microbit.
+
+### *Shawn Hymel - Microbit Tutorials* ###
+
+*https://www.youtube.com/watch?v=ZIW_6rxYNBg&t=10s*
+
+Despite this guy being a major pain in my 'Ears' and I've really resisted watching his stuff as he drives me so crazy but he is very good and turns up everywhere so, I will be utilising him more now.  I will just turn the volume down when he is joking about, his explainations of how the microbit works and how everything ties in together is just amazing. 
+
+### *Electronics companies selling kit- Core Electronics* ###
+
+*https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w/search?query=microbit*
+
+Quite a few of the electronics companies that sell microbits, arduiono, Raspberry Pi etc.. offer some great little videos and information on their websites, these guys ran a series on the microbit that I watched and found helpful.
+
+### *Ideas for lifting my Diorama up and out of the box.* ###
+
+Hydralics maybe and a scissor lift?
+*https://www.youtube.com/watch?v=Q649L1_jMZc*
+
+This is definitely an option but not sure about the water, maybe that can be the interactive thing that is done. Or maybe make some cogs and stick with the windup version, this scissor structure could work for that.
+
+Scissor lift only?
+*https://www.youtube.com/watch?v=VEJzHizTYSU*
+
+I love this option, very sturdy and clean operation.  I would obviously have to do this on a much smaller version.
+
+Water only lift?
+
+*https://www.youtube.com/watch?v=zFhy21loeRw*
+
+I like this idea too but it would need to be more sturdy then this and would again wipe out the option of wind up but that could be easier.
+
+
+### *Brief resource name/description* ###
+
+*Insert URL to project*
+
+### *Brief resource name/description* ###
+
+*Insert URL to project*
+
 
 ## Conceptual progress ##
 
@@ -87,10 +157,11 @@ Hay Kel – youtube videos
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*A box that you put a code in to open and once you get the code right and open it, it plays music and lights up, if you get the code wrong it sets an alarm off. *
+A box that you put a code in to open and once you get the code right and open it, it plays music and lights up, if you get the code wrong it sets an alarm off.
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic. A keepsake wooden box, that has a diorama of a little house in it, with maybe a Xmas scene happening outside, you wind up the house to the top of the box and once up the top, it plays xmas carols and the coloured lights flash.  You can either leave it up and play it again or you can wind it down ready for the next person to have a look. I am going to make it shoe box size or maybe a little bigger, at this stage I will be using a combination of balsa *
+This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic. 
+A keepsake wooden box, that has a diorama of a little house in it, with maybe a Xmas scene happening outside, you wind up the house to the top of the box and once up the top, it plays xmas carols and the coloured lights flash.  You can either leave it up and play it again or you can wind it down ready for the next person to have a look. I am going to make it shoe box size or maybe a little bigger, at this stage I will be using a combination of balsa
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
