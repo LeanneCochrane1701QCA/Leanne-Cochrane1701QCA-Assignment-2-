@@ -5,37 +5,37 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+*A Surprise in a Pretty Box*
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Let’s Party!!! By Sally71*
 
-*Insert URL to project*
+*https://www.youtube.com/watch?v=yIH5gkRLRBI*
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Lets%20Party.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *because it has a mechanically element, it plays music and has lights plus it is definitely a surprise in a box.  I seriously thought of doing something similar and may yet do this at some stage*.
 
 ### Related project 2 ###
-*Insert name of project*
+*Microbit: A Password to open a door*
 
-*Insert URL to project*
+*https://www.youtube.com/watch?v=YK4roDaRgcM*
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/password%20box.jpg)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *it uses the microbit as a keypad for the code to get into the box, I really wanted to include a code on my box and explored this quite a lot but just couldn't work out how to get the music, lights and code all to work together without purchasing multiple extra parts this was also the focus of my Design Concept 2. If I get time later in the production of the project and can work out how to incorporate this as well, I definitely will.*.
 
 ### Related project 3 ###
-*Insert name of project*
+*Micro:bit Surprise box*
 
-*Insert URL to project*
+*https://www.youtube.com/watch?v=9HBALzDlpo4*
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/surprise%20box.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *it is using the microbit to create an element of surprise in the project, which is what I am hoping to achieve with my project, I was tempted to do something like this which also is related to the first project above but the code etc.. and the different sensors that I would need, meant trying to find a cheaper way around the micro:bit accessories. This would mean perhaps learning a bit about Arduino which seems a little cheaper and more accessible locally for me. I am not sure I am ready to learn this side of things yet but definitely see the potential in this as time goes on.  I'm sure this could be made cheaper though and will keep it in mind for if my project is a complete failure, which I'm sure it won't.*. 
 
 ### Related project 4 ###
 *Insert name of project*
@@ -85,7 +85,7 @@ This project is related to mine because *insert reasons here*.
 *A box that you put a code in to open and once you get the code right and open it, it plays music and lights up, if you get the code wrong it sets an alarm off. *
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic. A keepsake wooden box, that has a diorama of a little house in it, with maybe a Xmas scene happening outside, you wind up the house to the top of the box and once up the top, it plays xmas carols and the coloured lights flash.  You can either leave it up and play it again or you can wind it down ready for the next person to have a look. I am going to make it shoe box size or maybe a little bigger, at this stage I will be using a combination of balsa *
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
