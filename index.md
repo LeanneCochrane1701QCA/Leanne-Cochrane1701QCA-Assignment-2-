@@ -189,13 +189,9 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20some%20notes%20.jpg)
 
-![Image](missingimage.png)
-
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20Scale%20of%20box%20and%20house%20base.jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20rough%20outline%20of%20desiign.jpg)
-
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20House%20plan2.jpg)
 
 ![Image](missingimage.png)
 
@@ -210,5 +206,9 @@ Ensure you include comments about the choices you've made along the way.*
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
+It has certainly been a big learning curve over the last couple of months especially getting to this point.  I am happy with where I am at with the project so far, yet there is still so much to work out and learn about.  I am finding the idea of putting together my light show with music a little overwhelming at the moment and am spending a lot of time watching YouTube videos and scanning websites trying to figure out how best to do this. I think I have used the double diamond in assisting to come up with my final design and ideas, I made a basic choice of what I've wanted to do and then worked on that idea and researched, then from feedback and revisiting the original idea I have been able to come to a conclusion.  The more I go back and confirm what I am doing, the more grounded I am but also the more my project develops.
+
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+I am going to spend the rest of today just trying to come to some conclusions in regards to my design, the microbit codes for my Christmas Carols, what materials I may need to get to do the garden etc.. in my design.  I have the wood and will start the box and base for the house of the next week.
